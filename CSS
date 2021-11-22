@@ -1,0 +1,19 @@
+buttor {
+    text-align: center;
+    padding: 12px 24px;
+    border: 0;
+    border-radius: 4px;
+    font-size: 14px;
+    color: #fff;
+    background:#a22274;
+    box-shadow: none;
+    cursor: pointer;
+    transition: border-radius 0.5s ease-in;
+}
+
+buttor:hover {
+    background: salmon;
+    color: black;
+    box-shadow: none;
+    border-radius: 30px;
+}
